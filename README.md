@@ -19,60 +19,68 @@ Este README lista todos los ejercicios asignados en el curso y tiene un link con
    → [Respuesta: Entropia.pdf](./Entropia.pdf)
 
 3. **Support Vector Machine** — Problema de optimización asociado a cómo encontrar los mejores pesos para un SVM y desarrollarlo con optimización convexa.
+ 
    → [Respuesta: Support_Vector_Machine.ipynb](./Support_Vector_Machine.ipynb)
 
-4. **Perceptrón** — Implementar el algoritmo del perceptrón y entender por qué funciona. Hacer los ejercicios 1.2 y 1.3. Adicionalmente, responder:
+4. **Perceptrón** — Implementar el algoritmo del perceptrón y entender por qué funciona. Hacer los ejercicios 1.2 y 1.3.
 
 <img width="796" height="585" alt="image" src="https://github.com/user-attachments/assets/41f02f52-a2d5-4fa6-a29f-a80460e8dc8b" />
 
+Adicionalmente, responder:
    - (a) ¿El algoritmo encuentra los parámetros correctos? (¿Separa los datos?)
    - (b) ¿El algoritmo para en un número finito de pasos? (¿Cómo garantizar convergencia?)
    - (c) ¿Por qué funciona? (Esta última está más relacionada al ejercicio 1.3 de la misma presentación).
 
-   → [Respuesta (código)](#)
+   → [Respuesta (código): Perceptron_y_por_que_funciona.ipynb](./Perceptron_y_por_que_funciona.ipynb)
    
-   → [Respuesta (preguntas)](#)
+   → [Respuesta (preguntas): Ejercicios_Perceptron.pdf](./Ejercicios_Perceptron.pdf)
 
 5. **Modelar XOR** — Modelar un XOR conectando varias neuronas básicas. Luego modelar XOR con perceptrones (con pesos específicos para cada uno).
-   → [Respuesta](#)
+
+   → [Respuesta: XOR_con_neuronas_MP_y_perceptrones.pdf](./XOR_con_neuronas_MP_y_perceptrones.pdf)
 
 6. **Reto Netflix vía SVD** — Consultar el artículo *KDD Cup 2007 Task 1 Winner Report* coautorado por Miklós Kurucz y responder detalladamente cómo se logró resolver el Reto Netflix a partir de SVD. (Sugerencia: hacer un paralelo de Temas vs. Temáticas y de Temáticas vs. Películas, deducir cómo es el comportamiento de la factorización a partir de este paralelo).
-   → [Respuesta](#)
+ 
+   → [Respuesta: Algoritmo_SVD_Reto_Netflix.pdf](./Algoritmo_SVD_Reto_Netflix.pdf)
 
 7. **KNN** — ¿Cuál es el conjunto hipótesis del modelo de aprendizaje K Nearest Neighbours? ¿Cuál es su algoritmo de aprendizaje?
-   → [Respuesta](#)
+ 
+   → [Respuesta: KNN_hipotesis_y_algoritmo_de_aprendizaje.pdf](./KNN_hipotesis_y_algoritmo_de_aprendizaje.pdf)
 
 8. **Cotas de concentración**
    - (a) Demostración cota Markov y 1 ejemplo.
    - (b) Demostración cota Chebyshev.
    - (c) Demostrar cota de Hoeffding (suponiendo Lema de Hoeffding).
-   → [Respuesta](#)
+   
+   → [Respuesta: Demostraciones_cotas_de_concentracion.pdf](./Demostraciones_cotas_de_concentracion.pdf)
 
 9. **Inequalities (learning slide 29/30)** — Responder la última pregunta: 𝜇 is the cause of 𝜈, but we can infer that 𝜇≈𝜈. ¿Por qué?
 
 <img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/ecde19cd-bd1b-4e3b-910d-1de272679231" />
 
-   → [Respuesta](#)
+   → [Respuesta: mu_and_nu_approximately_equal.pdf](./mu_and_nu_approximately_equal.pdf)
 
-10. **Desigualdad de Hoeffding — control de parámetros** — A partir de la desigualdad de Hoeffding, determine, entre los parámetros ε y δ = 2Me^(−2Nε²), ¿cuál controla de mejor manera el N? (N número de datos).
-    → [Respuesta](#)
+10. **Desigualdad de Hoeffding: epsilon VS delta** — A partir de la desigualdad de Hoeffding, determine, entre los parámetros ε y δ = 2Me^(−2Nε²), ¿cuál controla de mejor manera el N? (N número de datos).
+
+    → [Respuesta: Epsilon_VS_Delta_cual_controla_a_N.pdf](./Epsilon_VS_Delta_cual_controla_a_N.pdf)
 
 11. **Número efectivo de rectas separadoras** — ¿Cuál es el número efectivo de líneas (rectas) para separar 5 puntos (en 2 etiquetas) en ℝ²? (Ver todas las rectas posibles que separan 2 clases compuestas por 5 puntos, discriminar los casos en los que una recta no puede separar y así encontrar el número de rectas efectivas).
-    → [Respuesta](#)
+
+    → [Respuesta: Num_de_rectas_para_separar_5_puntos.pdf](./Num_de_rectas_para_separar_5_puntos.pdf)
 
 12. **Junturas en red neuronal shallow** — ¿Cuál es el origen de las junturas en una red neuronal shallow?
 
 <img width="880" height="509" alt="image" src="https://github.com/user-attachments/assets/df5c0e03-27df-4fee-897e-049672b1fe56" />
 
-→ [Respuesta](#)
+→ [Respuesta: Junturas_en_una_red_shallow.pdf](./Junturas_en_una_red_shallow.pdf)
 
-13. **Dobleces** — ¿Cuántos dobleces puedo tener aquí? (referente a la figura adjunta)
+13. **Dobleces** — ¿Cuántas regiones puedo tener aquí? (referente a la figura adjunta)
 
 <img width="863" height="535" alt="image" src="https://github.com/user-attachments/assets/00c32e5e-a6e8-4d02-a0a7-194b827be894" />
 
-→ [Respuesta](#)
+→ [Respuesta: Cuantas_regiones_crean_n_neuronas.pdf](./Cuantas_regiones_crean_n_neuronas.pdf)
 
 ---
 
-*Repositorio mantenido para [nombre del curso/profesor] — Machine Learning.*
+_Tuli Peña Melo_
 
