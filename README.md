@@ -63,15 +63,15 @@ Este README lista todos los ejercicios asignados en el curso y tiene un link con
 
 12. **Junturas en red neuronal shallow** — ¿Cuál es el origen de las junturas en una red neuronal shallow?
 
-<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/0eb5339c-7a9a-4440-aea0-6418739b2f46" />
+<img width="880" height="509" alt="image" src="https://github.com/user-attachments/assets/df5c0e03-27df-4fee-897e-049672b1fe56" />
 
-    → [Answer](#)
+→ [Answer](#)
 
 13. **Dobleces** — ¿Cuántos dobleces puedo tener aquí? (referente a la figura adjunta)
 
 <img width="863" height="535" alt="image" src="https://github.com/user-attachments/assets/00c32e5e-a6e8-4d02-a0a7-194b827be894" />
 
-    → [Answer](#)
+→ [Answer](#)
 
 ---
 
