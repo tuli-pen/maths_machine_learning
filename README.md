@@ -1,7 +1,7 @@
 # Matemáticas del Machine Learning
 *Repositorio para el curso 'Matemáticas del Machine Learning' de la Universidad Nacional de Colombia, tomado en 2026-1S.*
 
-## Lista de Tareas
+## Lista de tareas y respuesta de cada una
 
 Este README lista todos los ejercicios asignados en el curso y tiene un link con la respuesta para cada ejercicio.
 
@@ -50,6 +50,9 @@ Este README lista todos los ejercicios asignados en el curso y tiene un link con
    → [Answer](#)
 
 9. **Inequalities (learning slide 29/30)** — Responder la última pregunta: 𝜇 is the cause of 𝜈, but we can infer that 𝜇≈𝜈. ¿Por qué?
+
+<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/ecde19cd-bd1b-4e3b-910d-1de272679231" />
+
    → [Answer](#)
 
 10. **Desigualdad de Hoeffding — control de parámetros** — A partir de la desigualdad de Hoeffding, determine, entre los parámetros ε y δ = 2Me^(−2Nε²), ¿cuál controla de mejor manera el N? (N número de datos).
@@ -59,9 +62,15 @@ Este README lista todos los ejercicios asignados en el curso y tiene un link con
     → [Answer](#)
 
 12. **Junturas en red neuronal shallow** — ¿Cuál es el origen de las junturas en una red neuronal shallow?
+
+<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/0eb5339c-7a9a-4440-aea0-6418739b2f46" />
+
     → [Answer](#)
 
 13. **Dobleces** — ¿Cuántos dobleces puedo tener aquí? (referente a la figura adjunta)
+
+<img width="863" height="535" alt="image" src="https://github.com/user-attachments/assets/00c32e5e-a6e8-4d02-a0a7-194b827be894" />
+
     → [Answer](#)
 
 ---
