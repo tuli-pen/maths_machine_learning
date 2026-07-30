@@ -1,10 +1,9 @@
-# Lista de Tareas — Machine Learning
+# Matemáticas del Machine Learning
+*Repositorio para el curso 'Matemáticas del Machine Learning' de la Universidad Nacional de Colombia, tomado en 2026-1S.*
 
-Este README organiza todos los ejercicios asignados en el curso. 
----
+## Lista de Tareas
 
-
-## Preguntas y Respuestas
+Este README lista todos los ejercicios asignados en el curso y tiene un link con la respuesta para cada ejercicio.
 
 1. **Hoeffding inequality doesn't apply** — Ejercicio 1.10: Correr una simulación de computador lanzando 1,000 monedas justas. Lanzar cada moneda independientemente 10 veces. Enfocarse en 3 monedas: `c_1` es la primera moneda lanzada; `C_rand` es una moneda elegida al azar; `C_min` es la moneda que tuvo la frecuencia mínima de caras (elegir la más temprana en caso de empate). Sean `V_1`, `V_rand` y `V_min` la fracción de caras obtenida para las tres monedas respectivas.
    - (a) ¿Cuál es μ para las tres monedas seleccionadas?
@@ -12,15 +11,24 @@ Este README organiza todos los ejercicios asignados en el curso.
    - (c) Usando (b), graficar estimaciones de P[|v−μ| > ε] en función de ε, junto con la cota de Hoeffding 2e^(−2ε²N) (en la misma gráfica).
    - (d) ¿Qué monedas obedecen la cota de Hoeffding y cuáles no? Explicar por qué.
    - (e) Relacionar la parte (d) con los múltiples bins de la figura.
+
+<img width="729" height="604" alt="image" src="https://github.com/user-attachments/assets/ba66e1d7-4ef7-4f15-98e4-d9f65a69aca7" />
+
    → [Answer](#)
 
 2. **Entropía** — Probar que log₂ P(X=i) es la cantidad de preguntas binarias que se necesitan para representar un mensaje con esa probabilidad. Realizar la demostración de por qué se puede expresar la entropía de una variable aleatoria mediante la fórmula adjunta.
+
+<img width="537" height="137" alt="image" src="https://github.com/user-attachments/assets/712bc6de-2d80-4cbe-be3e-cee7f92d015b" />
+
    → [Answer](#)
 
 3. **Support Vector Machine** — Problema de optimización asociado a cómo encontrar los mejores pesos para un SVM y desarrollarlo con optimización convexa.
    → [Answer](#)
 
 4. **Perceptrón** — Implementar el algoritmo del perceptrón y entender por qué funciona. Hacer los ejercicios 1.2 y 1.3. Adicionalmente, responder:
+
+<img width="796" height="585" alt="image" src="https://github.com/user-attachments/assets/41f02f52-a2d5-4fa6-a29f-a80460e8dc8b" />
+
    - (a) ¿El algoritmo encuentra los parámetros correctos? (¿Separa los datos?)
    - (b) ¿El algoritmo para en un número finito de pasos? (¿Cómo garantizar convergencia?)
    - (c) ¿Por qué funciona? (Esta última está más relacionada al ejercicio 1.3 de la misma presentación).
